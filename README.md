@@ -1,5 +1,2 @@
 - 👋 Hi, I’m EC. I’m student in Atma Jaya University Yogyakarta
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me
+- 👀 I’m interested in .py, .dart, .html, .css
